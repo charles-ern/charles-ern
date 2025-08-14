@@ -1,8 +1,10 @@
-## Charles Roberto Ern
+# Charles Roberto Ern
 ## Bem vindo ao meu perfil! 👋
 
-Trabalho com tecnologia há mais de 20 anos. Minha experência é consultoria em implantação e manutenção de sistemas de gestão, especialemnte na área de HCM.
+Trabalho com tecnologia há mais de 20 anos. Minha experência é consultoria em implantação e manutenção de sistemas de gestão, especialmente na área de HCM.
+Sou formado em administração, pós graduado em Gestão de Projetos, e MBA em Criatvidade e Inovação.
 No momento estou me especializando em engenharia de dados.
+
 <!--
 **charles-ern/charles-ern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
